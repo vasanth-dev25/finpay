@@ -639,7 +639,7 @@ body {
         position: fixed;
         width:100%;
         background-color: #d4f8f8;
-        padding:7px 20px;
+        padding:15px 20px;
         z-index: 1;
     }
     
@@ -774,4 +774,5 @@ body {
     } */
 
 }
+
 
