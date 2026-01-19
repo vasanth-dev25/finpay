@@ -128,7 +128,6 @@ body {
     display: flex;
     justify-content: center;
 }
-
 .card {
     background: linear-gradient(180deg, #2f8f9d, #0b3c49);
     color: white;
@@ -661,7 +660,9 @@ body {
     .nav-links.active {
         display: flex;
     }
-    
+    .brands{
+        justify-content:center;
+    }
     .desktop-auth {
         display: none;
     }
@@ -774,6 +775,7 @@ body {
     } */
 
 }
+
 
 
 
